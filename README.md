@@ -45,7 +45,7 @@ The **Food Sharing Web Application** aims to reduce food waste by connecting cer
 
 1. Clone the repository:  
    \`\`\`bash  
-   git clone https://github.com/suren-4/food-sharing.git  
+   git clone https://github.com/food-sharing.git  
    cd food-sharing  
    \`\`\`  
 
